@@ -4,10 +4,6 @@
 
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldtom1423@gmail.com)](mailto:goldtom1423@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/teraskull)](https://t.me/teraskull)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/antonGrouchtchak/)](https://www.facebook.com/antonGrouchtchak)
-
 <p align="center">
   <a style="text-decoration:none" href="mailto:goldtom1423@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
